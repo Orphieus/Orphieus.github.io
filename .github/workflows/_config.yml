@@ -1,1 +1,5 @@
-theme : minima
+title: Your Site Title
+description: A short description of your site
+baseurl: "" # Leave blank for a GitHub Pages site at the root level
+url: "https://Orphieus.github.io" # Replace with your GitHub Pages URL
+theme: minima
